@@ -1,0 +1,15 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    margin: 10px 0;
+    
+}
+
+input, label, textarea {
+    margin: 5px 10px;
+    width: 100%;
+}
+
